@@ -20,5 +20,5 @@ This is a weather forecast application developed using JavaScript, HTML, CSS, an
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/weather-forecast-app.git
+   git clone https://github.com/rrs3012/weatherprojectinternshala.git
    cd weather-forecast-app
